@@ -1,0 +1,25 @@
+What is it?
+Small text adventure story game
+
+What do I need it to do?
+Take text
+Process it by pressing next button in Unity
+Allow input to progress story
+    Find a way to process certain words used in order to tailor change in story
+
+STORY STARTS HERE:
+"Good morning. How are you?"
+[Input1]
+"That's good... Could you remind me of your name again?"
+[Input2]
+"Ah that's right! [Input2]! What brings you here?"
+[Input3]
+"That's nice and all but these parts are getting more dangerous nowadays..."
+*crash and sound of flames in background*
+"What's going on outside?"
+*screams* *monsters outside terrorizing village*
+"Oh my! [Input2] you have to get out of here!"
+[Input4]
+"Stop dwaddling!"
+*shoving out of door animation*
+(Enter movement scene)
